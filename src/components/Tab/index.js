@@ -396,6 +396,8 @@ export default function TabComponent() {
                                 <small>Where to Contact</small>
                               </h2>
                               <div className="clearfix"></div>
+                            </div>
+                            <div className="x_content">
                               <br />
                               <form
                                 id="demo-form2"
