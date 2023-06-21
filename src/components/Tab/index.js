@@ -774,7 +774,7 @@ export default function TabComponent() {
                               <div className="clearfix"></div>
                               <table
                                 id="datatable"
-                                class="table table-striped table-bordered"
+                                class="table table-striped table-bordered table-responsive"
                               >
                                 <thead>
                                   <tr>
